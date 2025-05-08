@@ -1,0 +1,43 @@
+2025/05/09-02:53:33.438 a303 Reusing MANIFEST /Users/aryanjha/whatsapp-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/09-02:53:33.438 a303 Recovering log #591
+2025/05/09-02:53:33.457 a303 Reusing old log /Users/aryanjha/whatsapp-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000591.log 
+2025/05/09-02:53:35.563 f603 Level-0 table #604: started
+2025/05/09-02:53:35.571 f603 Level-0 table #604: 334072 bytes OK
+2025/05/09-02:53:35.578 f603 Delete type=0 #591
+2025/05/09-02:53:35.578 f603 Manual compaction at level-0 from '\x00:\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00;\x00\x00\x00' @ 0 : 0; will stop at '\x00:\x00\x00\x05' @ 1944081 : 1
+2025/05/09-02:53:35.578 f603 Compacting 1@0 + 1@1 files
+2025/05/09-02:53:35.588 f603 Generated table #605@0: 7253 keys, 155161 bytes
+2025/05/09-02:53:35.592 f603 Generated table #606@0: 1680 keys, 32164 bytes
+2025/05/09-02:53:35.593 f603 Compacted 1@0 + 1@1 files => 187325 bytes
+2025/05/09-02:53:35.599 f603 compacted to: files[ 0 2 19 0 0 0 0 ]
+2025/05/09-02:53:35.599 f603 Delete type=2 #604
+2025/05/09-02:53:35.599 f603 Manual compaction at level-0 from '\x00:\x00\x00\x05' @ 1944081 : 1 .. '\x00;\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/09-02:53:36.861 16c07 Compacting 1@1 + 13@2 files
+2025/05/09-02:53:36.905 16c07 Generated table #607@1: 55780 keys, 2222562 bytes
+2025/05/09-02:53:36.924 16c07 Generated table #608@1: 7123 keys, 2159257 bytes
+2025/05/09-02:53:36.946 16c07 Generated table #609@1: 2143 keys, 2139280 bytes
+2025/05/09-02:53:36.964 16c07 Generated table #610@1: 2397 keys, 2149002 bytes
+2025/05/09-02:53:36.995 16c07 Generated table #611@1: 18650 keys, 2198458 bytes
+2025/05/09-02:53:37.035 16c07 Generated table #612@1: 29076 keys, 2234117 bytes
+2025/05/09-02:53:37.057 16c07 Generated table #613@1: 5337 keys, 2125069 bytes
+2025/05/09-02:53:37.217 16c07 Generated table #614@1: 77756 keys, 2221909 bytes
+2025/05/09-02:53:37.275 16c07 Generated table #615@1: 99762 keys, 2250170 bytes
+2025/05/09-02:53:37.336 16c07 Generated table #616@1: 100469 keys, 2249458 bytes
+2025/05/09-02:53:37.340 16c07 Generated table #617@1: 4797 keys, 107055 bytes
+2025/05/09-02:53:37.341 16c07 Compacted 1@1 + 13@2 files => 22056337 bytes
+2025/05/09-02:53:37.347 16c07 compacted to: files[ 0 1 17 0 0 0 0 ]
+2025/05/09-02:53:37.347 16c07 Delete type=2 #564
+2025/05/09-02:53:37.347 16c07 Delete type=2 #599
+2025/05/09-02:53:37.347 16c07 Delete type=2 #598
+2025/05/09-02:53:37.347 16c07 Delete type=2 #605
+2025/05/09-02:53:37.347 16c07 Delete type=2 #601
+2025/05/09-02:53:37.347 16c07 Delete type=2 #563
+2025/05/09-02:53:37.347 16c07 Delete type=2 #577
+2025/05/09-02:53:37.347 16c07 Delete type=2 #562
+2025/05/09-02:53:37.347 16c07 Delete type=2 #589
+2025/05/09-02:53:37.347 16c07 Delete type=2 #600
+2025/05/09-02:53:37.347 16c07 Delete type=2 #561
+2025/05/09-02:53:37.347 16c07 Delete type=2 #595
+2025/05/09-02:53:37.347 16c07 Delete type=2 #594
+2025/05/09-02:53:37.347 16c07 Delete type=2 #596
+2025/05/09-02:53:37.347 16c07 Delete type=2 #597

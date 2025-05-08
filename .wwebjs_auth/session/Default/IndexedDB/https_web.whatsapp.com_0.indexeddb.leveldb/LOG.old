@@ -1,0 +1,32 @@
+2025/05/09-02:48:29.640 a103 Reusing MANIFEST /Users/aryanjha/whatsapp-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/09-02:48:29.641 a103 Recovering log #579
+2025/05/09-02:48:29.654 a103 Reusing old log /Users/aryanjha/whatsapp-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000579.log 
+2025/05/09-02:48:31.729 1f003 Level-0 table #592: started
+2025/05/09-02:48:31.737 1f003 Level-0 table #592: 222505 bytes OK
+2025/05/09-02:48:31.744 1f003 Delete type=0 #579
+2025/05/09-02:48:31.745 1f003 Manual compaction at level-0 from '\x009\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at '\x009\x00\x00\x05' @ 1931562 : 1
+2025/05/09-02:48:31.745 1f003 Compacting 1@0 + 1@1 files
+2025/05/09-02:48:31.754 1f003 Generated table #593@0: 5401 keys, 107025 bytes
+2025/05/09-02:48:31.758 1f003 Generated table #594@0: 1653 keys, 30845 bytes
+2025/05/09-02:48:31.758 1f003 Compacted 1@0 + 1@1 files => 137870 bytes
+2025/05/09-02:48:31.765 1f003 compacted to: files[ 0 2 18 0 0 0 0 ]
+2025/05/09-02:48:31.766 1f003 Delete type=2 #592
+2025/05/09-02:48:31.766 1f003 Manual compaction at level-0 from '\x009\x00\x00\x05' @ 1931562 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/09-02:48:33.172 a103 Compacting 1@1 + 6@2 files
+2025/05/09-02:48:33.218 a103 Generated table #595@1: 55162 keys, 2222887 bytes
+2025/05/09-02:48:33.240 a103 Generated table #596@1: 6392 keys, 2154728 bytes
+2025/05/09-02:48:33.254 a103 Generated table #597@1: 2157 keys, 2139462 bytes
+2025/05/09-02:48:33.272 a103 Generated table #598@1: 2359 keys, 2147772 bytes
+2025/05/09-02:48:33.299 a103 Generated table #599@1: 19075 keys, 2200324 bytes
+2025/05/09-02:48:33.334 a103 Generated table #600@1: 28633 keys, 2231694 bytes
+2025/05/09-02:48:33.338 a103 Generated table #601@1: 23 keys, 22283 bytes
+2025/05/09-02:48:33.338 a103 Compacted 1@1 + 6@2 files => 13119150 bytes
+2025/05/09-02:48:33.341 a103 compacted to: files[ 0 1 19 0 0 0 0 ]
+2025/05/09-02:48:33.341 a103 Delete type=2 #588
+2025/05/09-02:48:33.341 a103 Delete type=2 #593
+2025/05/09-02:48:33.341 a103 Delete type=2 #587
+2025/05/09-02:48:33.341 a103 Delete type=2 #586
+2025/05/09-02:48:33.341 a103 Delete type=2 #584
+2025/05/09-02:48:33.341 a103 Delete type=2 #585
+2025/05/09-02:48:33.341 a103 Delete type=2 #582
+2025/05/09-02:48:33.341 a103 Delete type=2 #583
