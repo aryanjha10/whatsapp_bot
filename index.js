@@ -1,6 +1,9 @@
 
 console.log("Script has started...");
 
+// Add your whitelisted whatsapp numbers - Bot will be activated to those numbers only
+    let white_list_responders = [];
+
 const { Client, LocalAuth } = require("whatsapp-web.js");
 //axios
 const axios = require("axios");
@@ -39,9 +42,6 @@ client.on("message_create", async (msg) => {
         return;
     }
 
-    // Add your whitelisted whatsapp numbers - Bot will be activated to those numbers only
-    let white_list_responders = ["447983746206@c.us"];
-
     // if msg.from contains @g.us - its from group , else its from contact
     if (msg.from.includes("@g.us")) {
         console.log("Group message");
@@ -73,6 +73,25 @@ client.on("message_create", async (msg) => {
 });
 
 client.initialize();
+
+//Add Whitelist Numbers
+app.post('/add-whitelist', (req, res) => {
+  const number = req.body.number;
+
+  if (!number) {
+    return res.status(400).send("Missing 'number' in request body.");
+  }
+
+  const chatId = number.replace(/[^0-9]/g, '') + "@c.us"; // sanitize input
+  if (!white_list_responders.includes(chatId)) {
+    white_list_responders.push(chatId);
+    console.log(`✅ Added to whitelist: ${chatId}`);
+    return res.send(`Added ${chatId} to whitelist.`);
+  } else {
+    return res.send(`${chatId} is already in whitelist.`);
+  }
+});
+
 
 // Webhook endpoint to receive chat history requests from Make.com
 app.post("/get-chat-history", async (req, res) => {

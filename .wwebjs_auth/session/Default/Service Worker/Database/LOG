@@ -1,3 +1,2 @@
-2025/05/09-02:53:32.773 a603 Reusing MANIFEST /Users/aryanjha/whatsapp-bot/.wwebjs_auth/session/Default/Service Worker/Database/MANIFEST-000001
-2025/05/09-02:53:32.773 a603 Recovering log #3
-2025/05/09-02:53:32.773 a603 Reusing old log /Users/aryanjha/whatsapp-bot/.wwebjs_auth/session/Default/Service Worker/Database/000003.log 
+2025/05/10-01:34:33.438 15b0b Creating DB /Users/aryanjha/whatsapp-bot/.wwebjs_auth/session/Default/Service Worker/Database since it was missing.
+2025/05/10-01:34:33.447 15b0b Reusing MANIFEST /Users/aryanjha/whatsapp-bot/.wwebjs_auth/session/Default/Service Worker/Database/MANIFEST-000001

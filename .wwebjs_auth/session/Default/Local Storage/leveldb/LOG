@@ -1,3 +1,2 @@
-2025/05/09-02:53:32.665 a603 Reusing MANIFEST /Users/aryanjha/whatsapp-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
-2025/05/09-02:53:32.666 a603 Recovering log #7
-2025/05/09-02:53:32.666 a603 Reusing old log /Users/aryanjha/whatsapp-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/000007.log 
+2025/05/10-01:34:31.632 8603 Creating DB /Users/aryanjha/whatsapp-bot/.wwebjs_auth/session/Default/Local Storage/leveldb since it was missing.
+2025/05/10-01:34:31.645 8603 Reusing MANIFEST /Users/aryanjha/whatsapp-bot/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
